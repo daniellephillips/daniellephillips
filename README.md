@@ -11,9 +11,7 @@
 - [Customer Portal] (https://4g30lh.axshare.com/)
 - [smart search mock] https://ooe2gw.axshare.com/
 
--->
-
-<!-- Default Statcounter code for github
+```<!-- Default Statcounter code for github
 https://daniellephillips.github.io/portfolio/ -->
 <script type="text/javascript">
 var sc_project=12417267; 
@@ -27,4 +25,4 @@ src="https://www.statcounter.com/counter/counter.js" async></script>
 href="https://statcounter.com/" target="_blank"><img class="statcounter"
 src="https://c.statcounter.com/12417267/0/12f72437/1/" alt="Web
 Analytics"></a></div></noscript>
-<!-- End of Statcounter Code -->
+<!-- End of Statcounter Code -->```
