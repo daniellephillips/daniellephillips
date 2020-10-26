@@ -10,6 +10,8 @@
 <!---
 - [Customer Portal] (https://4g30lh.axshare.com/)
 - [smart search mock] https://ooe2gw.axshare.com/
+-->
+
 
 ```<!-- Default Statcounter code for github
 https://daniellephillips.github.io/portfolio/ -->
