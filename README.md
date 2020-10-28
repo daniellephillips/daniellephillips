@@ -2,6 +2,7 @@
 <h2 align="center">Hello there! My name is Danelle Phillips 👋</h2>
 <p align="center">✨ ✨✨ ✨✨ ✨✨ ✨ I just started this repo so it's a work in progress ✨ ✨✨ ✨✨ ✨✨ ✨</p>
 
+
 ### 💻 Design concepts and prototypes are viewable using these links:
 - [Dynamic Installer](http://old.phillipspdx.com/latitude/index.html#/screens) 
 - [Cloud IDE for Embedded Dev](http://old.phillipspdx.com/design/MVP/index.html#/screens/224770390)
@@ -13,3 +14,4 @@
 - [Customer Portal] (https://4g30lh.axshare.com/)
 - [smart search mock] https://ooe2gw.axshare.com/
 -->
+### 💼 Link to WIP [portfolio site](https://daniellephillips.github.io/portfolio/) 
