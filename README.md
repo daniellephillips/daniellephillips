@@ -14,4 +14,4 @@
 - [Customer Portal] (https://4g30lh.axshare.com/)
 - [smart search mock] https://ooe2gw.axshare.com/
 -->
-### 💼 Link to WIP [portfolio site](https://daniellephillips.github.io/portfolio/) 
+### 💼 Link to WIP (updated daily) [portfolio site](https://daniellephillips.github.io/portfolio/) 
