@@ -15,3 +15,8 @@
 - [smart search mock] https://ooe2gw.axshare.com/
 -->
 ### 💼 Link to WIP (updated daily) [portfolio site](https://daniellephillips.github.io/portfolio/) 
+
+
+
+---
+![D. Phillips Github Stats](https://github-readme-stats.vercel.app/api?username=daniellephillips&show_icons=true&theme=modernist)
