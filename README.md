@@ -1,6 +1,6 @@
 
 <h2 align="center">Hello there! My name is Danelle Phillips 👋</h2>
-<p align="center">✨ ✨✨ ✨✨ ✨✨ ✨ I just started this repo so it's a work in progress ✨ ✨✨ ✨✨ ✨✨ ✨</p>
+<p align="center">✨ ✨✨ ✨✨ ✨✨ ✨ This repo is dedicated to fun projects ✨ ✨✨ ✨✨ ✨✨ ✨</p>
 
 
 
